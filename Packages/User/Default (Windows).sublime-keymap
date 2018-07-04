@@ -1,0 +1,14 @@
+[
+	//chorme 
+	{ 
+		"keys": ["f5"], 
+		"command": "side_bar_files_open_with", 
+		"args": { 
+				"paths": [], 
+				"application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", 
+				"extensions": ".*" 
+			} 
+	} ,
+	//colorpicker
+	{ "keys": ["ctrl+shift+c"], "command": "color_pick" },
+]
